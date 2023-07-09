@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello, I'm Nikhil Nimbalkar]!
+👋 Hello, I'm Nikhil Nimbalkar!
 
 🔭 Exploring the realms of software development with a focus on Python and web technologies. 
 
