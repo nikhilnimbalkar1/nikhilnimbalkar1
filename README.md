@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🌐 Open to exciting opportunities and collaborations in the tech industry. Let's connect and create something awesome together!
 
-📫 Feel free to reach out to me via <a>nsv.nimbalkar@gmail.com</a> or on LinkedIn. I'm always open to engaging in stimulating conversations and learning from fellow developers.
+📫 Feel free to reach out to me via [email](nsv.nimbalkar@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nikhil-nimbalkar/). I'm always open to engaging in stimulating conversations and learning from fellow developers.
 
 🌟 Check out my projects below and explore the code that powers them! Contributions, feedback, and collaborations are always welcome.
 
