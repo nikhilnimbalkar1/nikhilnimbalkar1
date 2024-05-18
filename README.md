@@ -1,5 +1,3 @@
-![](https://tenor.com/gVyCZCqpV9R.gif)
-
 <!--
 **nikhilnimbalkar1/nikhilnimbalkar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 👋 Hello, I'm Nikhil Nimbalkar!
 
-🔭 Exploring the realms of software development with a focus on Python and web technologies. 
+🔭 Exploring the realms of software development with a focus on Python and Web technologies. 
 
 🌟 Passionate about crafting robust and scalable solutions that empower businesses and enhance user experiences.
 
